@@ -1,3 +1,4 @@
+pip install yfinance pandas numpy scikit-learn streamlit matplotlib
 
 import yfinance as yf
 import pandas as pd
